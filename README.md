@@ -15,7 +15,7 @@ Front-end starter using:
 
 Compatible with:
 
-- fastify-postgresql-back-end
+- [fastify-postgresql-back-end](https://github.com/stetsolutions/fastify-postgresql-back-end)
 
 ## Install
 
