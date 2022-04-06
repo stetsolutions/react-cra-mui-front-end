@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  react:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      target: dev
+    container_name: react
+    image: localhost/react-cra-5-mui-5-front-end
+    ports:
+      - 3000:3000
