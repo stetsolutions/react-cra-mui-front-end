@@ -24,7 +24,7 @@ function Footer () {
           <Grid container>
             <Grid item xs={12}>
               <Typography align='center' variant='body2'>
-                &copy; Copyright 2021, STET Solutions Inc. All Rights Reserved -
+                &copy; Copyright 2021, STET Solutions Inc. All Rights Reserved
                 v0.1.0
               </Typography>
             </Grid>
